@@ -1,0 +1,21 @@
+[options]
+addons_path 			= E:\Python\odoo-development\odoo\addons
+admin_passwd 			= bms
+data_dir 				= E:\Python\odoo-development\log
+db_host 				= localhost
+db_maxconn 				= 64
+db_name 				= False
+db_user 				= bms
+db_password 			= changeme!!
+db_port 				= 5432
+db_template 			= template0
+logrotate 				= False
+longpolling_port 		= 8072
+max_cron_threads		= 2
+osv_memory_age_limit 	= 1.0
+osv_memory_count_limit 	= False
+pg_path 				= C:\Program Files\PostgreSQL\11\bin
+xmlrpc 					= True
+xmlrpc_interface 		= 
+dbfilter 				= odoo-development
+xmlrpc_port 			= 8069
